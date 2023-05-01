@@ -1,0 +1,24 @@
+:root {
+    scroll-behavior: smooth;
+    background-color: darkslategray;
+
+}
+
+* {
+    /* margin: 0.5%;*/
+    font-family: 'Rubik', sans-serif;
+    color: rgb(235, 235, 235);
+    -webkit-transition: all 0.25s ease-in;
+    -moz-transition: all 0.25s ease-in;
+    -o-transition: all 0.25s ease-in;
+    transition: all 0.25s ease-in;
+}
+
+body {
+    font-size: 1.1rem;
+    font-weight: 300;
+    line-height: 1.5;
+    color: rgb(235, 235, 235);
+    text-align: left;
+    overflow-x: hidden;
+}
